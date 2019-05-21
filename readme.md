@@ -2,12 +2,12 @@
 
 This is a recopilation of cracking resources and tools. I'm planning to update it periodically. If you know some good information in this direction please ping me ;)
 
-# Standalone tool
+# Cracking tools
 
 * https://en.wikipedia.org/wiki/Aircrack-ng
 * https://nmap.org/ncrack/
 * https://www.elcomsoft.es/police_and_law_enforcement_solutions.html
-* cain&abel
+* http://www.oxid.it/cain.html
 * World's fastest and most advanced password recovery utility - https://github.com/hashcat/hashcat
 * https://www.kitploit.com/search?q=cracking	
 * PACK (Password Analysis and Cracking Kit) http://thesprawl.org/projects/pack/
@@ -66,12 +66,30 @@ This is a recopilation of cracking resources and tools. I'm planning to update i
 * https://github.com/tonyprawiro/cracking-ldap
 * https://github.com/opsun/btc-cracker
 * https://github.com/mlafeldt/roxor
-
+* https://github.com/nidem/kerberoast
 * https://www.elcomsoft.de/edpr.html
 * https://github.com/jmmcatee/cracklord/
 * https://github.com/s3inlc/hashtopolis
+* https://github.com/gentilkiwi/mimikatz
+* Ighashgpu - http://www.golubev.com/hashgpu.htm 
+* BarsWF - http://3.14.by/en/md5
+* Whitepixel - http://whitepixe.zorinaq.com 
+* hashkill - http://www.gat3way.eu/hashkill/index.php
+* Passware - http://www.lostpassword.com/hardware-acceleration.htm
+* Password Recovery Tools – http://passwordrecoverytools.com
+* HashSuite – http://hashsuite.openwall.net/performance
+* http://www.cloudcracker.com
+* http://www.hash-database.net
+* http://www.onlinehashcrack.com
+* http://passcracking.com
+* http://md5pass.info/add.php
+* Free Rainbow Tables: http://www.freerainbowtables.com
+* Shmoo group: http://rainbowtables.shmoo.com
+* http://foofus.net/goons/fizzgig/fgdump/fgdump-usage.htm
+* https://www.openwall.com/passwords/windows-pwdump
+* https://www.ampliasecurity.com/research/windows-credentials-editor/
 
-# Rules y diccionarios
+# Rules & dictionaries
 
 * https://github.com/NotSoSecure/password_cracking_rules
 * https://github.com/kennyn510/wpa2-wordlists
@@ -99,10 +117,10 @@ This is a recopilation of cracking resources and tools. I'm planning to update i
 * https://github.com/dafthack/PassphraseGen
 * https://github.com/SpiderLabs/KoreLogic-Rules
 * https://github.com/krishkribo/Hacking-World-list
-* crunch
-* cewl
+* https://tools.kali.org/password-attacks/crunch
+* https://tools.kali.org/password-attacks/cewl
 
-# talks & post
+# Talks & post
 * https://www.slideshare.net/rootedcon/pablo-caro-jaime-snchez-i-know-your-p4w0rd-and-if-i-dont-i-will-guess-it-rooted2019
 * https://www.theregister.co.uk/2019/02/14/password_length/
 
