@@ -1,15 +1,9 @@
-# Cryptanalysis tool
+# Herramientas cracking
 
-* RSA primes numbers /RSA/CTFs
-https://github.com/ihebski/factordb
-
------------
-Herramientas cracking
-
-https://en.wikipedia.org/wiki/Aircrack-ng
-https://nmap.org/ncrack/
-https://www.elcomsoft.es/police_and_law_enforcement_solutions.html
-cain&abel
+* https://en.wikipedia.org/wiki/Aircrack-ng
+* https://nmap.org/ncrack/
+* https://www.elcomsoft.es/police_and_law_enforcement_solutions.html
+* cain&abel
 
 World's fastest and most advanced password recovery utility - https://github.com/hashcat/hashcat
 https://www.kitploit.com/search?q=cracking	
