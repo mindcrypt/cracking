@@ -1,4 +1,4 @@
-# Cracking resources recopilation
+# Cracking resources for fun and profit :)
 
 This is a recopilation of cracking resources and tools. I'm planning to update it periodically. If you know some good information in this direction please ping me ;)
 
