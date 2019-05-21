@@ -1,3 +1,7 @@
+# Cracking resources recopilation
+
+This is a recopilation of cracking resources and tools. I'm planning to update it periodically. If you know some good information in this direction please ping me ;)
+
 # Standalone tool
 
 * https://en.wikipedia.org/wiki/Aircrack-ng
