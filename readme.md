@@ -119,6 +119,8 @@ This is a recopilation of cracking resources and tools. I'm planning to update i
 * https://github.com/krishkribo/Hacking-World-list
 * https://tools.kali.org/password-attacks/crunch
 * https://tools.kali.org/password-attacks/cewl
+* https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm
+
 
 # Talks & post
 * https://www.slideshare.net/rootedcon/pablo-caro-jaime-snchez-i-know-your-p4w0rd-and-if-i-dont-i-will-guess-it-rooted2019
