@@ -122,6 +122,7 @@ This is a recopilation of cracking resources and tools. I'm planning to update i
 * https://tools.kali.org/password-attacks/crunch
 * https://tools.kali.org/password-attacks/cewl
 * https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm
+* https://project-rainbowcrack.com/table.htm
 
 
 # Talks & post
