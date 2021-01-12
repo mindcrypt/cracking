@@ -88,6 +88,7 @@ This is a recopilation of cracking resources and tools. I'm planning to update i
 * http://foofus.net/goons/fizzgig/fgdump/fgdump-usage.htm
 * https://www.openwall.com/passwords/windows-pwdump
 * https://www.ampliasecurity.com/research/windows-credentials-editor/
+* https://github.com/f0cker/crackq
 
 # Rules & dictionaries
 
