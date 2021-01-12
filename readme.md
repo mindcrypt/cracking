@@ -89,6 +89,7 @@ This is a recopilation of cracking resources and tools. I'm planning to update i
 * https://www.openwall.com/passwords/windows-pwdump
 * https://www.ampliasecurity.com/research/windows-credentials-editor/
 * https://github.com/f0cker/crackq
+* https://github.com/Aorimn/dislocker
 
 # Rules & dictionaries
 
