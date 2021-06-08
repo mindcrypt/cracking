@@ -90,6 +90,7 @@ This is a recopilation of cracking resources and tools. I'm planning to update i
 * https://www.ampliasecurity.com/research/windows-credentials-editor/
 * https://github.com/f0cker/crackq
 * https://github.com/Aorimn/dislocker
+* https://www.kitploit.com/2021/06/penglab-abuse-of-google-colab-for.html
 
 # Rules & dictionaries
 
